@@ -1,0 +1,13 @@
+.cal{
+    width: 50%;
+    height: 30%;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.line{
+    width: 1px;
+    height: 70%;
+    background-color: black;
+}

@@ -1,0 +1,10 @@
+.parentcard{
+    width: 80%;
+    height: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+

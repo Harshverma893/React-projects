@@ -1,0 +1,13 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.title,.date_new{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+}
